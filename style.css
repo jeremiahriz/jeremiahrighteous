@@ -22,8 +22,8 @@ button{
 	font-size: 1.5vw;
 	border: none;
 	background-color: #B26547;
-	color:white;
 	border-radius: 4px;
+	color:white;
 	cursor: pointer;
 }
 button hover{
