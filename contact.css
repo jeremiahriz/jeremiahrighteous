@@ -1,0 +1,38 @@
+body{
+	padding:0;
+	margin:0;
+	width: auto;
+	font-size: 1.7vw;
+	background-color: #F9F4ED;
+}
+.center{
+	position:relative;
+	top: 5px;
+	margin: auto;
+	width: 60%;				
+	padding: 10px;
+}
+input[type=text], textarea {
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 3px;
+	margin-bottom: 8px;
+	resize: vertical;
+}
+
+input[type=submit] {	
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	background-color: #B26547;
+	border-radius: 4px;
+	cursor: pointer;
+}
+h3{
+	font-size: 3vw;
+	color:#B26547;
+	
+}

@@ -1,0 +1,35 @@
+body{
+	padding:0;
+	margin:0;
+	width: auto;
+	font-size: 2vw;
+	background-color: #F9F4ED;
+}
+.center{
+	position:relative;
+	top: 130px;
+	margin: auto;
+	width: 55%;
+	//border: 1px solid black
+	padding: 30px;
+}
+p{
+	text-align: justify;
+}
+button{
+	width:20%;
+	padding: 6px 10px;
+	font-size: 1.5vw;
+	border: none;
+	background-color: #B26547;
+	color:white;
+	border-radius: 4px;
+	cursor: pointer;
+}
+button hover{
+	background-color: #E3A68F;
+}
+h1{
+	font-size: 3vw;
+	color:#B26547;
+}
