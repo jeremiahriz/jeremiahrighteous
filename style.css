@@ -1,35 +1,44 @@
+/**This is the style sheet for this small site... lol**/
+
 body{
 	padding:0;
 	margin:0;
 	width: auto;
-	font-size: 2vw;
-	background-color: #F9F4ED;
+	font-family: Inter UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 150%;
+	color: #FFFFFF;
+	background: #121A12;
 }
+
+
 .center{
 	position:relative;
-	top: 130px;
+	top: 48px;
 	margin: auto;
-	width: 55%;
-	//border: 1px solid black
-	padding: 30px;
+	width: 72%;
 }
+
+h1{
+	font-size: 48px;
+	font-weight: 600;
+}
+
 p{
-	text-align: justify;
+	text-align: left;
+	margin-bottom: 32px;
 }
+
 button{
-	width:20%;
-	padding: 6px 10px;
-	font-size: 1.5vw;
-	border: none;
-	background-color: #B26547;
+	width: 180px;
+	height: 48px;
+	background: #4CAF50;
 	border-radius: 4px;
-	color:white;
+	border: none;
+	font-size: 22px;
+	color: #FFFFFF;
 	cursor: pointer;
 }
-button hover{
-	background-color: #E3A68F;
-}
-h1{
-	font-size: 3vw;
-	color:#B26547;
-}
+
