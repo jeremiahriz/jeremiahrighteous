@@ -16,14 +16,15 @@ body{
 
 .center{
 	position:relative;
-	top: 48px;
+	top: 32px;
 	margin: auto;
-	width: 72%;
+	width: 86%;
 }
 
 h1{
 	font-size: 48px;
 	font-weight: 600;
+	line-height: 150%;
 }
 
 p{
@@ -40,5 +41,6 @@ button{
 	font-size: 22px;
 	color: #FFFFFF;
 	cursor: pointer;
+	margin-bottom:32px;
 }
 
