@@ -16,7 +16,7 @@ body{
 
 .center{
 	position:relative;
-	top: 32px;
+	top: 24px;
 	margin: auto;
 	width: 86%;
 }
@@ -24,7 +24,6 @@ body{
 h1{
 	font-size: 48px;
 	font-weight: 600;
-	line-height: 150%;
 }
 
 p{
