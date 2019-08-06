@@ -7,10 +7,10 @@ body{
 	font-family: Inter UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 22px;
+	font-size: 21px;
 	line-height: 150%;
 	color: #FFFFFF;
-	background: #121A12;
+	background: #0D0D0D;
 }
 
 
@@ -31,15 +31,28 @@ p{
 	margin-bottom: 32px;
 }
 
-button{
+a:link, a:visited, a:active {
+  color: #4CAF50;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  color: #A8FF78;
+}
+
+button {
 	width: 180px;
 	height: 48px;
 	background: #4CAF50;
 	border-radius: 4px;
 	border: none;
-	font-size: 22px;
+	font-size: 21px;
 	color: #FFFFFF;
 	cursor: pointer;
 	margin-bottom:32px;
 }
 
+button:hover {
+	background: #A8FF78;
+}
