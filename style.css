@@ -7,14 +7,12 @@ body{
 	line-height: 64px;
 	color: #F8FAF9;
 	background: #090A0A;
-	position: relative;
 	text-align: center;
 }
 
 
 .center{
 	overflow: hidden;
-	position: absolute;
 	margin: 200px auto;
 	
 }
