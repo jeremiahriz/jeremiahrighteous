@@ -9,43 +9,23 @@ body{
 	font-weight: normal;
 	font-size: 21px;
 	line-height: 165%;
-	color: #FFFFFF;
-	background: #0D0D0D;
+	color: #F8FAF9;
+	background: #090A0A;
 }
 
 
 .center{
 	position:relative;
-	top: 32px;
+	top: 50%;
 	margin: auto;
-	width: 86%;
+	width: 100%;
 }
 
 h1{
 	font-size: 48px;
-	font-weight: 600;
+	font-weight: 700;
+	line-height: 64px;
 }
 
-p{
-	text-align: left;
-	margin-bottom: 32px;
-}
 
-a:link, a:visited, a:active {
-  color: #4CAF50;
-  text-decoration: none;
-  display: inline-block;
-}
-
-button {
-	width: 180px;
-	height: 48px;
-	background: #4CAF50;
-	border-radius: 4px;
-	border: none;
-	font-size: 21px;
-	color: #FFFFFF;
-	cursor: pointer;
-	margin-bottom:64px;
-}
 
