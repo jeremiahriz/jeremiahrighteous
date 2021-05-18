@@ -22,7 +22,7 @@ h1{
 	text-align: center;
 }
 
-@media(min-width:"580px") {
+@media(min-width:580px) {
 	.center {
 	  margin: 200px auto;
 	}
