@@ -23,15 +23,15 @@ h1{
 }
 
 
-@media(min-width:580px) {
+@media(max-width:580px) {
 	.center {
-	  margin: 100px auto;
+	  margin: 150px auto;
 	}
 }
 
-@media(min-height:640px) {
+@media(max-height:640px) {
 	.center {
-	  margin: 100px auto;
+	  margin: 150px auto;
 	}
 }
 
