@@ -2,7 +2,7 @@
 
 body{
 	font-family: Inter UI;
-	font-size: 38px;
+	font-size: 32px;
 	font-weight: 700;
 	line-height: 64px;
 	color: #F8FAF9;
@@ -20,6 +20,12 @@ body{
 h1{
 
 	text-align: center;
+}
+
+@media(min-width:"580px") {
+	.center {
+	  margin: 200px auto;
+	}
 }
 
 
