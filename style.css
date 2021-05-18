@@ -1,28 +1,24 @@
 /**This is the style sheet for this small site... lol**/
 
 body{
-/* 	padding:0; */
-/* 	margin:0; */
 	font-family: Inter UI;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 21px;
-	line-height: 165%;
+	font-size: 44px;
+	font-weight: 700;
+	line-height: 60px;
 	color: #F8FAF9;
 	background: #090A0A;
+	position: relative;
 }
 
 
 .center{
-	margin: auto;
-	padding: 25% 0;
 	overflow: hidden;
+	position: absolute;
+	top: 50%;
 }
 
 h1{
-	font-size: 48px;
-	font-weight: 700;
-	line-height: 64px;
+
 	text-align: center;
 }
 
