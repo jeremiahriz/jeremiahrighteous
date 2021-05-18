@@ -22,11 +22,17 @@ h1{
 	text-align: center;
 }
 
+
 @media(min-width:580px) {
 	.center {
-	  margin: 200px auto;
+	  margin: 100px auto;
 	}
 }
 
+@media(min-height:640px) {
+	.center {
+	  margin: 100px auto;
+	}
+}
 
 
