@@ -1,9 +1,8 @@
 /**This is the style sheet for this small site... lol**/
 
 body{
-	padding:0;
-	margin:0;
-	width: auto;
+/* 	padding:0; */
+/* 	margin:0; */
 	font-family: Inter UI;
 	font-style: normal;
 	font-weight: normal;
@@ -15,8 +14,7 @@ body{
 
 
 .center{
-	top: 50vh;
-	margin: 100px auto;
+	margin: 50vh auto;
 	width: 100%;
 }
 
