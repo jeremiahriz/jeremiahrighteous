@@ -2,9 +2,9 @@
 
 body{
 	font-family: Inter UI;
-	font-size: 44px;
+	font-size: 38px;
 	font-weight: 700;
-	line-height: 60px;
+	line-height: 64px;
 	color: #F8FAF9;
 	background: #090A0A;
 	position: relative;
@@ -14,7 +14,8 @@ body{
 .center{
 	overflow: hidden;
 	position: absolute;
-	top: 50%;
+	margin: 200px auto;
+	
 }
 
 h1{
